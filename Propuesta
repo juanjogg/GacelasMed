@@ -1,0 +1,12 @@
+GacelasMED
+
+Primer sprint 
+Se configuraran los servidores cada uno prestando su respectivo servicio (DNS, WEB, Mail) Usando contenedores.
+
+Segundo sprint
+Se configurará la base de datos con la informacion de todos los usuarios.
+
+Tercer sprint
+Se configurará el diseño de la pagina web con css y javascript.
+
+La red social permitira a los corredores comunicarse entre sí por medio de chats. Además en cada perfil de usuario se tendrá las estadisticas de los kilometros que ha corrido en las categorias diario, semanal, mensual y anual. También se mostrarán las calorias quemadas de acuerdo a los kilometros recorridos. Ademas se podra publicar eventos de carreras especificando el lugar y los kilometros que se recorrerán.
